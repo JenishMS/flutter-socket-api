@@ -7,7 +7,7 @@ import {
 } from '@nestjs/websockets';
 import { Socket } from 'dgram';
 
-@WebSocketGateway(81, {
+@WebSocketGateway({
   cors: {
     origin: '*',
   },

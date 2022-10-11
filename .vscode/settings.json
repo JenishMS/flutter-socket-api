@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/4ba0cd7e-2c17-4c97-9ef0-1aafe5b60e7d/appservices/subscriptions/4ba0cd7e-2c17-4c97-9ef0-1aafe5b60e7d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/flutter-socket-api",
+  "appService.deploySubpath": "."
+}
